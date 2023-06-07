@@ -3,7 +3,7 @@ Teste backend Java do Banco Santander, foi implementado API’s com as funcional
 Para testar api: Fazer o import do arquivo api_interntebanking_2023-06-07 que esta na raiz do projeto e importar no Insomnia ou postman.
 
 As urls da api:
-Cadastrar um cliente > http://localhost:8080/customer
+Cadastrar um cliente > http://localhost:8080/customer <br />
 Listar Clientes > http://localhost:8080/customers
 Sacar > http://localhost:8080/transactions/withdraw/1?valor=320
 depositar > http://localhost:8080/transactions/deposit/2?valor=500
