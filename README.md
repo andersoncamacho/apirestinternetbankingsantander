@@ -1,0 +1,1 @@
+Teste backend Java do Banco Santander, foi implementado API’s com as funcionalidades: Cadastrar um cliente, Retornar todos clientes cadastrados, Sacar um valor que subtrai o saldo do cliente contando uma taxa de administração , Deposita um valor que aumenta o saldo de um determinado cliente e Consulta o histórico de transações por data
