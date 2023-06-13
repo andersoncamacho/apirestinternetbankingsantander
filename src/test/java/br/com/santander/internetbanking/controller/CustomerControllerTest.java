@@ -40,7 +40,7 @@ public class CustomerControllerTest {
 
         String jsonRequest = objectMapper.writeValueAsString(request);
 
-        ResultActions result = mockMvc.perform(post("/customer")
+        ResultActions result = mockMvc.perform(post("/api/customer")
                 .contentType(MediaType.APPLICATION_JSON)
                 .content(jsonRequest));
 
