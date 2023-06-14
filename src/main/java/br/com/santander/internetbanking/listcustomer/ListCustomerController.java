@@ -15,7 +15,7 @@ public class ListCustomerController {
     @PersistenceContext
     private EntityManager manager;
 
-    @GetMapping(value = "/api/customers")
+    @GetMapping(value = "/api/v1/customers")
     public HashMap<String, Object> list() {
         List customers = manager.createQuery(" select c from NewCustomer c").getResultList();
 

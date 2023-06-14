@@ -14,7 +14,7 @@ public class CustomerController {
     @PersistenceContext
     private EntityManager manager;
 
-    @PostMapping(value = "/api/customer")
+    @PostMapping(value = "/api/v1/customer")
     @Transactional
     public String toCreate(@RequestBody @Valid CustomerRequest request) {
         Customer newCustomer = request.toModel();
