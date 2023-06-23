@@ -2,7 +2,7 @@
 <span>Spring boot REST API project template using jpa (Springboot REST API whch connects H2 database).</span>
 
 <h2>Project description </h2>
-<p>Java backend test for Banco Santander, APIs were implemented with the following functionalities: Register a client, Retrieve all registered clients, Withdraw an amount that subtracts from the client's balance considering an administration fee, Deposit an amount that increases the balance of a specific client, and Query transaction history by date.</p>
+<p>Java backend APIs Rest, APIs were implemented with the following functionalities: Register a client, Retrieve all registered clients, Withdraw an amount that subtracts from the client's balance considering an administration fee, Deposit an amount that increases the balance of a specific client, and Query transaction history by date.</p>
 
 <h2>Setup</h2>
 <ul dir="auto">
