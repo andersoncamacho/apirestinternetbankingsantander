@@ -13,6 +13,10 @@
   <li>Browse <code>http//localhost:8080/</code></li>
 </ul>
 
+<h2>Swagger APIs</h2>
+<li>Documention <code>http://localhost:8080/santander-documentation/</code></li>
+<li>API docs <code>http://localhost:8080/santander-api-docs</code></li>
+
 <h2>API Doc & Sample</h2>
 
 <ul dir="auto">

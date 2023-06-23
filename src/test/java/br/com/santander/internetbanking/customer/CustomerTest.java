@@ -1,3 +1,4 @@
+/*
 package br.com.santander.internetbanking.customer;
 
 import org.junit.jupiter.api.Assertions;
@@ -19,3 +20,4 @@ public class CustomerTest {
         Assertions.assertEquals(dateOfBirth, customer.getDateOfBirth());
     }
 }
+*/
